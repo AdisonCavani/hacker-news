@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4",
+    "vite": "^3.1.4",
+    "vite-plugin-solid": "^2.3.9"
+  },
+  "dependencies": {
+    "solid-js": "^1.5.7"
+  }
+}
